@@ -13,4 +13,4 @@ title: Portfolio
 
 
 This is my portfolio featuring website projects I have created.
-![]({{site.baseurl}}//images/sample2.gif)
+![]({{site.baseurl}}//images/sample_2.gif)
