@@ -1,7 +1,3 @@
----
-layout: draft
-title: Example content
----
 
 
 <div class="message">
