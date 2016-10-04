@@ -1,3 +1,11 @@
+---
+published: false
+---
+
+---
+layout: post
+title: Example Content
+---
 
 
 <div class="message">
