@@ -1,9 +1,7 @@
 ---
 layout: post
-title: portfolio
+title: Past Projects
 ---
-
-## This is my portfolio featuring website projects I have created.
 
 ### The Garment District Inc.
 
