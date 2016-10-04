@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Past Projects
+published: true
 ---
 
 ### The Garment District Inc.
@@ -19,7 +20,7 @@ title: Past Projects
 ![](https://scontent-sin6-1.xx.fbcdn.net/v/t34.0-12/14569672_10154662789690559_1185887652_n.gif?oh=14517421cfb423d74e337aaf49f038c3&oe=57F5B19A)
 
 	- Built with Shopify
-  - online store
+ 	- online store
     
     
     
@@ -31,6 +32,4 @@ title: Past Projects
 ![](https://scontent-sin6-1.xx.fbcdn.net/v/t35.0-12/14599931_10154666749190559_733439803_o.png?oh=75b82c2c0c13e43037e0d23b35cde7dc&oe=57F5B651)
 
 	- Built with Bootstrap
-  - product page website
-    
-    
+  	- product page website
