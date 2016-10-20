@@ -6,7 +6,7 @@ published: true
 
 ### The Garment District Inc.
 
-![](https://scontent-sin6-1.xx.fbcdn.net/v/t34.0-12/14555890_10154666744120559_1443843735_n.gif?oh=c78ae2d24c72ef7a57302f2e7b8ffaa9&oe=57F5FE9C)
+![](https://www.dropbox.com/s/eqg59lueo7c2llh/tgdi.gif?raw=1)
 
 	- Built with Bootstrap
 	- company profile website
@@ -17,7 +17,7 @@ published: true
 
 ### Go E Yoga Towels
 
-![](https://scontent-sin6-1.xx.fbcdn.net/v/t34.0-12/14569672_10154662789690559_1185887652_n.gif?oh=14517421cfb423d74e337aaf49f038c3&oe=57F5B19A)
+![](https://www.dropbox.com/s/865etfiabwv8k3v/go-e-towels.gif?raw=1)
 
 	- Built with Shopify
  	- online store
@@ -29,7 +29,7 @@ published: true
     
 ### Cocoro Sugar
 
-![](https://scontent-sin6-1.xx.fbcdn.net/v/t35.0-12/14599931_10154666749190559_733439803_o.png?oh=75b82c2c0c13e43037e0d23b35cde7dc&oe=57F5B651)
+![](https://www.dropbox.com/s/5bkr0yr0wtzd0cv/cocoro.png?raw=1)
 
 	- Built with Bootstrap
   	- product page website
