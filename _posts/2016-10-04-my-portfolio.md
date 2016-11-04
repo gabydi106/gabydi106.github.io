@@ -6,7 +6,7 @@ published: true
 
 ### The Garment District Inc.
 
-<iframe src="thegarmentdistrictinc.com"></iframe>
+
 
 ![](https://www.dropbox.com/s/eqg59lueo7c2llh/tgdi.gif?raw=1)
 
